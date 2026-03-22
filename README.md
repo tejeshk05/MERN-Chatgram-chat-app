@@ -1,3 +1,3 @@
 ## Deployment
-- The project is deployed and can be accessed at [CineSent Recommender](https://chatgram-lddo.onrender.com).
+- The project is deployed and can be accessed at [Chatgram](https://chatgram-lddo.onrender.com).
 
